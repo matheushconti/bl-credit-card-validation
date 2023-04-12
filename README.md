@@ -4,7 +4,7 @@ This project is a simple Credit Card Validation Form for Android and iOS on the 
 
 ## Technologies and Libraries
 
-- [React Native with Typescript] (https://reactnative.dev/docs/typescript)
+- [React Native with Typescript](https://reactnative.dev/docs/typescript)
 - Formik - Form handler
 - Yup - Validation handler
 - Jest - Testing Library
